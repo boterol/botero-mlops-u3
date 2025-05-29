@@ -2,6 +2,11 @@
 
 Todas las modificaciones importantes en este proyecto serán documentadas aquí.
 
+## [1.1.1] - 2025-05-28
+### Added
+- Descripción de monitoreo del pipeline en el README.md.
+- Herramientas corregidas en el diagrama
+- Evidenciar el almacenamiento de las predicciones en el diagrama del Pipeline. 
 
 ## [1.1.0] - 2025-05-28
 
