@@ -86,3 +86,10 @@ Este enfoque no solo responde a los desafíos planteados en la consigna del ejer
 - La predicción es procesada por el modelo alojado en el backend.
 - Las predicciones son almacenadas automáticamente en una base de datos relacional para su consulta futura.  
   > Propuesta: **AWS Aurora PostgreSQL**
+
+
+### 7. Monitoreo del Modelo
+
+- Se registran las predicciones del modelo en la base de datos para auditoría y análisis posterior.
+- Se prevé la visualización de métricas clave mediante dashboards.
+- En versiones futuras se explorará el uso de herramientas como **Prometheus + Grafana**, **MLflow** o **Evidently AI** para monitoreo automatizado y detección de drift.
